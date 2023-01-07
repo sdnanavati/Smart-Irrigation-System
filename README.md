@@ -90,9 +90,11 @@ Hence we successfully implemented the system of smart irrigation using Arduino a
 
 
 # Conclusion
+
 Working on this project helps us learn how Arduino, relay module, temperature and humidity sensor, moisture sensor work and how they can be successfully used to help farmers and other farming industries to farm their respective crops with adequate amount of water based on the temperature, moisture and humidity at that particular time. Also we learned about android app development and how to link the app to components like Arduino Uno.
 
-References
+# References
+
 •	https://electronicsforu.com/electronics-projects/prototypes/smart-irrigation-system
 •	https://en.wikipedia.org/wiki/Special:Search?search=smart+irrigation&go=Go
 •	https://www.hydropoint.com/what-is-smart-irrigation/
