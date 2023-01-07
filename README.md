@@ -1,7 +1,8 @@
 # Smart-Irrigation-System
 This Project was done under the guidance of Professor Saurav Verma as part of Semester 4(Jan 2019-May 2019) project for the subject Microcontrollers and Microprocessors at SVKM's NMIMS Mukesh Patel School Of Technology, Mumbai.
 
-Team Members: Soham Nanavati, Raj Mehta
+Team Members: Soham Nanavati, Raj Mehta]
+
 Technologies used: Android Studio , Arduino IDE, Arduino Circuit board
  
 SMART IRRIGATION System
